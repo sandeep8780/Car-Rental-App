@@ -26,7 +26,7 @@ A Flutter-based mobile application for renting cars. This app allows users to br
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/car_rental.git
+   git clone https://github.com/sandeep8780/Car-Rental-App.git
    cd car_rental
    ```
 
